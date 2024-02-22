@@ -1,0 +1,24 @@
+﻿  Bank2.cpp
+E:\iti\oop\project\Bank2\Bank2\Bank.h(71,50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank2.cpp')
+  
+E:\iti\oop\project\Bank2\Bank2\Bank.h(94,63): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank2.cpp')
+  
+E:\iti\oop\project\Bank2\Bank2\Bank.h(96,49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank2.cpp')
+  
+E:\iti\oop\project\Bank2\Bank2\Bank.h(116,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank2.cpp')
+  
+E:\iti\oop\project\Bank2\Bank2\Bank.h(158,57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank2.cpp')
+  
+E:\iti\oop\project\Bank2\Bank2\Bank.h(192,70): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank2.cpp')
+  
+E:\iti\oop\project\Bank2\Bank2\Bank.h(197,56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank2.cpp')
+  
+E:\iti\oop\project\Bank2\Bank2\LinkedList.h(115): warning C4715: 'LinkedList<Client>::bubbleSort': not all control paths return a value
+  Bank2.vcxproj -> E:\iti\oop\project\Bank2\x64\Debug\Bank2.exe
